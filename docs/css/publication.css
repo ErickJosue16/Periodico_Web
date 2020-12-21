@@ -1,0 +1,65 @@
+.publication{
+    font-family: 'Rubik', sans-serif;
+    margin-bottom: 20px;
+    height: auto;
+    /* background-color: bluevaiolet; */
+    padding: 10px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.publication-titleAndDate{
+    width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+    /* background-color:red; */
+    border-top: 2px solid black;
+
+    display: flex;
+    justify-content: space-between;
+}
+.publication-titleAndDate>.title{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.publication-content{
+    height: 100px;
+    margin-bottom: 15px;
+}
+/* .publication-content-extends{
+    height: 300px;
+    font-size: 15px;
+    margin-bottom: 30px;
+} */
+.publication-content>p{
+    text-align: justify;
+    font-size: 20px;
+}
+
+.publication-image{
+    height: auto ;
+    /* background-color: yellow; */
+
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+}
+
+.publication-image-indy{
+    width: 40%;
+    /* border-bottom: 5px; */
+    padding-bottom: 15px;
+}
+
+
+/* Figura profesional */
+
+.figure-P div h3{
+        font-size: 40px !important; 
+}
+

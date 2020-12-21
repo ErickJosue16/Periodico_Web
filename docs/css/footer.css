@@ -1,0 +1,41 @@
+/* footer */
+.footer{
+    font-family: 'Fredoka One', cursive;
+    font-weight: bold;
+    margin-bottom: 20px;
+    background-color: rgba(255,255,255, 0.5);
+    height: 100px;
+    width: 95vw;
+    margin-top: 15px;
+    padding: 15px 15px;
+    border-radius: 15px;
+    /* border: 1px solid black; */
+    box-shadow:3px 8px black;
+
+    display: flex;
+    flex-direction: row;
+}
+.footer>p{
+    width: 70%;
+    padding-right: 15px;
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.footer>div{
+    /* font-family: 'Playfair Display', serif; */
+    padding-left: 20px;
+    border-left: 3px solid black;
+} 
+.footer>div>h4{
+font-weight: bold;
+
+}
+.direccion{
+    font-size: 30px;
+    /* font-family: 'Playfair Display', serif; */
+    /* font-weight: bold; */
+    display: flex;
+    justify-content: center;
+}

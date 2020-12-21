@@ -1,0 +1,40 @@
+.dateProgramed{
+min-width: 500px;
+max-width: 700px;
+height: auto;
+
+color: black;
+font-size: 20px;
+
+padding: 10px;
+margin: 10px 0px;
+border-radius: 15px;
+
+display: flex;
+justify-content: space-between;
+}
+
+.eventLink{
+    text-decoration: none;
+    background-color: lawngreen;
+    display: contents;
+}
+
+.eventLink:hover{
+    font-weight: bold;
+}
+.dateProgramed:hover{
+    box-shadow:5px 4px black;
+}
+
+.news{
+
+    /* background-color: rgb(247, 248, 247);1 */
+    overflow: scroll;
+    height: 300px;
+    width: 750px;
+}
+
+.hiden{
+    display: none;
+}

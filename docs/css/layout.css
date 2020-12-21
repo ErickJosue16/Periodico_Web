@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+::-webkit-scrollbar {
+    width: 15px;
+}
+::-webkit-scrollbar-track {
+    background-color: rgb(7,14,196);
+} 
+::-webkit-scrollbar-thumb {
+    background-color: rgba(255, 255, 255, 0.4
+    );
+    border-radius: 15px;
+}
+/* ::-webkit-scrollbar-  */
+::-webkit-scrollbar-corner {
+    background-color: black;
+}
+ 
+/* Colors */
+.naranja{
+    background-color: rgb(251, 101, 74);
+}
+.verde{
+    background-color: rgb(99, 246, 99);
+}
+.azul{
+    background-color: rgb(86, 147, 216);
+}
+.rojo{
+    background-color: rgb(240, 81, 81);
+}
+.morado{
+    background-color: rgb(157, 98, 233);
+}
+.amarillo{
+    background-color: rgb(239, 251, 74);
+}
+.rosado{
+    background-color: rgb(251, 74, 251);
+}
+.celeste{
+    background-color: rgb(74, 251, 251);
+}
+.fuxia{
+    background-color: rgb(238, 62, 194);
+}
+.gris{
+    background-color: slategrey;
+}

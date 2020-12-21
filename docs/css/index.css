@@ -1,0 +1,76 @@
+
+.header-history{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+.header-history h2{
+
+    font-size: 40px;
+    margin:auto 40px ;
+}
+
+.history-image{
+    width: 140px;
+    height: auto;
+}
+
+.content-history{
+    font-size: 25px;
+    text-align: justify;
+    padding:0px 60px;
+}
+
+.content-history p{
+    display: block;
+    margin-bottom: 20px;
+}
+
+.center-map{
+    /* width: 100%; */
+    display:flex;
+    justify-content:center;
+}
+
+.collage{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+.foto-person{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.foto-perfil{
+    width: 200px;
+    height: 290px;
+    margin-bottom: 10px;
+}
+.link-wiki{
+    font-size: 25px;
+    text-transform: uppercase;
+}
+
+.organigrama{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    margin-top: 50px;
+}
+
+.title-organigrama{
+    font-size: 35px;
+    margin-bottom: 15px;
+}
+
+.img-organigrama{
+    width: 60%;
+    height: auto;
+}
