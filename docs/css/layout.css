@@ -41,11 +41,14 @@
     background-color: rgb(251, 74, 251);
 }
 .celeste{
-    background-color: rgb(74, 251, 251);
+    background-color: rgb(74, 171, 251);
 }
 .fuxia{
     background-color: rgb(238, 62, 194);
 }
 .gris{
-    background-color: slategrey;
+    background-color: rgb(108, 119, 129);
+}
+.blanco{
+    background-color: rgb(255, 255, 255);
 }
